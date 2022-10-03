@@ -8,16 +8,16 @@ Each folder(GAMES103lab*) is an independent project.
 
 ### lab1
 
-![lab1](ASSETS\lab1.gif)
+![lab1](ASSETS\lab1.png)
 
 ### lab2
 
-![lab2](ASSETS\lab2.gif)
+![lab2](ASSETS\lab2.png)
 
 ### lab3
 
-![lab3](ASSETS\lab3.gif)
+![lab3](ASSETS\lab3.png)
 
 ### lab4
 
-![lab4](ASSETS\lab4.gif)
+![lab4](ASSETS\lab4.png)
